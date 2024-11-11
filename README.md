@@ -28,8 +28,11 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador en formación apasionado 
 
 ## 📂 Proyectos Destacados
 
-### [Sistema de Gestión de Herramienta Ingeniar Inoxidables (SGHII)](https://github.com/corsariopsique/SGHII-App)
-Un sistema de gestión de inventarios industrial desarrollado con **Java (Spring)** y **React.js**. Este proyecto permite a los usuarios gestionar herramientas, operarios y proveedores, con funciones para préstamos y devoluciones.
+### [Sistema de Gestión de Herramienta Ingeniar Inoxidables (SGHII-WebApp)](https://github.com/corsariopsique/SGHII-App)
+Interfaz grafica (Frontend) del sistema de gestión de inventarios industrial desarrollado con **React.js**. Este proyecto permite a los usuarios hacer uso del sistema de gestión de herramientas, operarios y proveedores, con funciones para préstamos y devoluciones.
+
+### [Sistema de Gestión de Herramienta Ingeniar Inoxidables (SGHII-WebService)](https://github.com/corsariopsique/WebService)
+Sistema de gestión de inventarios industrial (Backend) desarrollado con **Java (Spring)**. Este proyecto permite a los usuarios gestionar herramientas, operarios y proveedores, con funciones para préstamos y devoluciones y entrega de reportes graficos.
 
 ### [SGHII-Mobile](https://github.com/corsariopsique/SGHII-Mobile)
 Aplicación móvil en **Flutter** que permite a usuarios externos acceder al estado del inventario en tiempo real. Incluye características de autenticación JWT y consulta de datos a través de API REST.
