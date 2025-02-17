@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Andres Serrano
+# 👋 ¡Hola! Soy Mario Andres Ordoñez Serrano
 
 Bienvenido a mi perfil de GitHub. Soy un desarrollador en formación apasionado por la tecnología y la innovación, con experiencia en **desarrollo frontend y backend** y un interés en **análisis de datos**. Me gusta aprender y mejorar constantemente mis habilidades para crear soluciones efectivas y de calidad.
 
@@ -48,7 +48,7 @@ Aplicación móvil en **Flutter** que permite a usuarios externos acceder al est
 
 ## 🌐 Conéctate Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-serrano-250251277)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-andres-ordo%C3%B1ez-serrano-250251277/)
 [![Correo Electrónico](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corsariopsique@gmail.com)
 
 ¡Gracias por visitar mi perfil! 😊 
